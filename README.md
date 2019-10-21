@@ -13,10 +13,10 @@ ii)Prediction Algorithms
     b)CART(Classification and Regression Trees)
     c)PART(Probability and Regression Trees)
     d)C4.5
-    e)Random Forest Tree Regession and various methods.
-iii)Clustering/segmentation Algorithms
+    e)Random Forest Regession and various methods.
+iii)Clustering/Segmentation Algorithms
     a)K-Means Clustering
-    b)Appriori Algorithm
+    b)Apriori Algorithm
    
    
    
