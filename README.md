@@ -1,6 +1,6 @@
 # DATA-SCIENCE
 DATA SCIENCE PROJECTS
-In this repo I working on various Machine Learning Algorithms.\n
+In this repo I working on various Machine Learning Algorithms.
 i) Classification Algorithms 
   a)Logistic Regression
   b)SVM(Support Vector Machine)
@@ -34,5 +34,5 @@ iii)Clustering/segmentation Algorithms
   
   
   
-  My mantra "Train Test Train Test Maximize Accuracy Minimize Noise"
+ 
     
