@@ -1,7 +1,7 @@
 # DATA-SCIENCE
 DATA SCIENCE PROJECTS
 In this repo I working on various Machine Learning Algorithms.
-i) Classification Algorithms 
+i) Classification Algorithms /
   a)Logistic Regression
   b)SVM(Support Vector Machine)
   c)Decision Trees
